@@ -1,4 +1,5 @@
 # Weather App
+-[View weather App](https://fresh-wether-app.netlify.app/)
 
 This is a simple weather app that shows the current weather for a given city.
 
